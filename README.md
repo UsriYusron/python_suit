@@ -1,5 +1,7 @@
 # project_python_suit
-source code suit (gunting batu kertas) menggunakan python
+# source code suit (gunting batu kertas) menggunakan python
+
+
 import random
 
 print("Gunting-Batu-Kertas")
