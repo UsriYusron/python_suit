@@ -1,6 +1,3 @@
-# source code suit (gunting batu kertas) menggunakan python
-
-
 import random
 
 print("Gunting-Batu-Kertas")
